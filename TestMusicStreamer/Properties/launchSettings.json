@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestMusicStreamer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TestMusicStreamer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
